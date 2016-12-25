@@ -1,0 +1,30 @@
+                                                                                                    
+                                                                                                    
+﻿# Map file for tile-based game                                                                     
+                                                                                                    
+                                        I                                                           
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                  1       1                                                         
+                                EBBBBBBBBBBBBBF                                                     
+                                CAMLLLLLLLLLLND             3 3                                     
+     P  6         3             CADooooooooooCHBF                                                   
+    IIIIII                    EBGADooooooooooCAAD  EBF                                              
+    IIIIII       1       1    CAAADooo2oo2oooCAAD EGAD             1                                
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAADooooooooooCAAHBGAAHBBBBBBF  EBBBBBBF                             
+AAMLLLLLLLNAAAAAAAAAAAAAAAAAAAAAAAHFoooooooooCAAAMLLLLLLLNAAD  CAAAAAAD EBF  1                      
+AAD       CAAAAAAAAAAAAAAAAAAAAAAAMJ    EBBBBGAAADo  o  oCAAD  CAAAAAAD CAHBBBBBF   1               
+AAD   3   CAMLLLLLLLLLLLLLLLLLLLLLJ   EBGAAAAMLLND  2o 2oCAAD  CAAAAAAD CAAAAAAAHBBBBBF             
+AADoo     KLJ      1o o o o1          CMLLLLLJ77CHBF o  oCAAD  CAAAAAAD CAAAAAAAAAAAAAHBBBF5       E
+AADoo             IIIIIIIIIII   2    EGDoooooo  CMLJ o  oCAAD66CAAAAAAD CAAAAAAAAAAAAAAAAAD        C
+AAHBF  EBBBBF        o   o   o   o   CADoooooo  CD      EGAAHBBGAAAAAAD CAAAAAAAAAAAAAAAAAD        C
+AAAAD  CAAAAHBBBBBF  EBBBBBBBBBBBBBBBGAHBBBBBF  CHBF   EGAAAAAAAAAAAAAD CAAAAAAAAAAAAAAAAAD        C
+AMLLJ IKLLLLLLLNAAD  KLLLLLLLLLLLLLLLLLLLLLLLJ  KLLJ   KLLLLLLLLLLLLLLJ KLLLLLLLLLLLLLLNMLJ5       C
+AD          oooCAADI  o                       I                                    ooooCDooooooooooC
+AD          oooCAAD   I2    2         2         2    I              2         2    ooooCDooooooooooC
+AD*  6      oooCAAD   I    1        1        1       I1        1         1         ooooCDooooooooooC
+AHBBBBBBBBBBBBBGAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGHBBBBBBBBBBG
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
